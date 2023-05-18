@@ -1,6 +1,4 @@
-# first-time-with-vue
-
-This template should help get you started developing with Vue 3 in Vite.
+# SATBLE TEMPLATE FOR DEVELOPER'S
 
 ## Recommended IDE Setup
 
