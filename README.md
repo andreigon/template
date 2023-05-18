@@ -1,10 +1,10 @@
 # SATBLE TEMPLATE FOR DEVELOPER'S
 
-***TypeScript
-SCSS
-PiniA
-NormalizE
-VUE***
+**TypeScript**
+**SCSS**
+**PiniA**
+**NormalizE**
+**VUE**
 
 ## Recommended IDE Setup
 
